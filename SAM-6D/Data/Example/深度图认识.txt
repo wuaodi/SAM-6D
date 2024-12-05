@@ -1,0 +1,7 @@
+depth.png
+通道数：1
+位深度：16
+最大值：1804
+最小值：0
+单位：mm  # readme注释的说明
+代码：scripts/pixelDetails.py
